@@ -13,7 +13,7 @@
 
 Demo - www.pradeeppj.com/sfp 
 
-Design Research - www.pradeeppj.com/sfp/design_research.pdf
+Design Research - https://goo.gl/1tjpaS
 
 Prototype of Design Ideas - www.pradeeppj.com/sfp/prototype
 
