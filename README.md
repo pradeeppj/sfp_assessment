@@ -17,6 +17,7 @@ Prototype of Design Ideas - www.pradeeppj.com/sfp/prototype
 
 - No CSS framework used.
 - Fully functional responsive layout.
+- Exact replica of the design with style guide.
 - Minimal Javascript to reduce latency.
 - Fade-in transitions.
 - Responsive Navigation Bar.
