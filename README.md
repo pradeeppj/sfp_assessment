@@ -13,6 +13,8 @@
 
 Demo - www.pradeeppj.com/sfp 
 
+Design Research - www.pradeeppj.com/sfp/design_research.pdf
+
 Prototype of Design Ideas - www.pradeeppj.com/sfp/prototype
 
 - No CSS framework used.
